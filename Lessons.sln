@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson10", "Lesson10\Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10incapsulation", "Lesson10incapsulation\Lesson10incapsulation.csproj", "{EA969AE6-28FA-485B-97CD-F8E7242DAC00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{22DE030A-9926-4954-B9FE-C21DDFC438FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{EA969AE6-28FA-485B-97CD-F8E7242DAC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA969AE6-28FA-485B-97CD-F8E7242DAC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA969AE6-28FA-485B-97CD-F8E7242DAC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DE030A-9926-4954-B9FE-C21DDFC438FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DE030A-9926-4954-B9FE-C21DDFC438FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DE030A-9926-4954-B9FE-C21DDFC438FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DE030A-9926-4954-B9FE-C21DDFC438FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
